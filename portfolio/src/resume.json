@@ -1,0 +1,76 @@
+{
+    "summary": {
+      "name": "Congrui (Jerry) Wang",
+      "description": "Software engineer with hands-on experience developing scalable full-stack applications, optimizing workflow automation, and building robust APIs. Strong in ReactJS, NodeJS, and cloud services like AWS.",
+      "contact": [
+        "Oakville, ON, Canada",
+        "(365) 996–5261",
+        "jerry.cr.w@gmail.com"
+      ]
+    },
+    "education": [
+      {
+        "degree": "Bachelor of Computer Science",
+        "years": "2020 – 2025",
+        "institution": "University of Waterloo, Waterloo, ON",
+        "details": "Completed courses in Big Data, AI, Networks, and Databases. Additional certifications in GenAI for LLM and GenAI for Development via Coursera."
+      }
+    ],
+    "experience": [
+      {
+        "title": "Software Developer",
+        "company": "Milk Moovement Inc.",
+        "location": "Halifax, NS",
+        "duration": "May 2024 – Dec 2024",
+        "highlights": [
+            " Designed and implemented RESTful API to support bulk CRUD operations, allowing users to modify and edit multiple schedule items in a single RESTful API request to reduce manual workload by 50%",
+            " Developed a real-time comment feature with a complete Model-Service-Controller workflow in Express",
+            " Implemented server-side logic in Express to validate accurate MongoDB data storage and retrieval",
+            " Utilized AWS S3 to store and retrieve tank seal images ensuring authenticity and safety compliance"
+        ]
+      },
+      {
+        "title": "Mobile App Developer – React Native",
+        "company": "Vivid Seats LLC",
+        "location": "Toronto, ON",
+        "duration": "Sept 2023 – Dec 2023",
+        "highlights": [
+            "Developed an A/B testing tool using RTK Query and Optimizely API reducing testing time by 30%",
+            "Resolved a major endpoint deletion bug occurred post-user logout through API calls and Charles proxy",
+            "Utilized Docker Compose to run React Native frontend/backend services locally enabling consistent development and local testing with Jest and ESLint prior to CI/CD integration for improved efficiency",
+            "Improved code stability and reliability by adding quality Jest unit tests for React components and hooks"
+        ]
+      },
+      {
+        "title": "Agile Software Engineering Intern",
+        "company": "TribalScale",
+        "location": "Toronto, ON",
+        "duration": "Jan 2023 – Apr 2023",
+        "highlights": [
+            "Automated 20+ modules reducing manual work by 70% via AJAX calls to Greenhouse job board API",
+            "Refactored codebase improving workflow by 50% and migrated Firebase data to DynamoDB"
+        ]
+      },
+      {
+        "title": "Software Engineer",
+        "company": "Makrwatch",
+        "location": "Virginia, US (Remote)",
+        "duration": "May 2022 – Aug 2022",
+        "highlights": [
+            "Automated the client onboarding process using Python scripts under company’s hexagonal architecture",
+            "Built an interactive web page to track real-time client setup status using PostgreSQL and Monday API"
+        ]
+      },
+      {
+        "title": "Frontend Developer",
+        "company": "Purolator",
+        "location": "Mississauga, ON",
+        "duration": "Sept 2021 – Dec 2021",
+        "highlights": [
+            "Maintained and updated the Purolator website using HTML, CSS, Bootstrap, and Drupal CMS",
+            "Launched 10+ web pages for holiday campaigns using Drupal and Adobe Illustrator"
+        ]
+      }
+    ]
+  }
+  
